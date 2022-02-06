@@ -1,0 +1,4 @@
+tensorflow
+matplotlib
+tensorflow_datasets
+notebook
